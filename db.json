@@ -1,0 +1,16 @@
+{
+  "country": [
+    {
+      "country_code": "JP",
+      "country_name": "Japan",
+      "capital_city": "Tokyo",
+      "is_visited": false
+    },
+    {
+      "country_code": "US",
+      "country_name": "United State of America",
+      "capital_city": "New York",
+      "is_visited": false
+    }
+  ]
+}
