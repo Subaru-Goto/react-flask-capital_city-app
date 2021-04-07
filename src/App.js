@@ -19,7 +19,7 @@ function App () {
 
     useEffect(() => {
         axios
-            .get(`http://localhost:5000/country/${codeFromClick}`)
+            .get(`https://flask-app-training.herokuapp.com/${codeFromClick}`)
             .then(res => {
             const data = res.data;
             setCountry(data);
